@@ -1,1 +1,2 @@
 alias gfd="bosh cr --force && bosh ur"
+alias bssh="bosh ssh -d "
