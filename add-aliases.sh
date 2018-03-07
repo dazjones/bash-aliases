@@ -1,3 +1,3 @@
 #!/bin/bash
-cat *.alias >> ~/.bashrc
+cat aliases/*.alias >> ~/.bashrc
 source ~/.bashrc
